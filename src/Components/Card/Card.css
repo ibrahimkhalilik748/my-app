@@ -1,0 +1,39 @@
+form input{
+    width: 30%;
+    height: 40px;
+    margin: 10px;
+    border: 1px solid gray;
+    border-radius: 3px;
+    padding-left: 10px;
+}
+.input{
+    width: 90%;
+}
+.btn{
+    width: 90%;
+}
+.ShowCard{
+    width: 100%;
+    text-align: left;
+}
+.ShowCard .text{
+    width: 100%;
+    padding: 10px;
+}
+.ShowCard .text p{
+   font-size: 14px;
+}
+.ShowCard .img{
+    width: 100%;
+    margin: 0 auto;
+}
+.ShowCard .img img{
+    width: 100%;
+    /* width: 60%; */
+    /* border-radius: 100%; */
+}
+.ShowCard .box{
+    width: 100%;
+    border: 1px solid gray;
+    margin-bottom: 30px;
+}
